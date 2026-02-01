@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 개발용 파일
+prompt
+
+# 로그
+*.log
